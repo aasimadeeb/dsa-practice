@@ -1,6 +1,5 @@
 # dsa-practice
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+A structured log capturing my personal technical trajectory; a disciplined evolution from foundational concepts to optimized solutions.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
